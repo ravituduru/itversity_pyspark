@@ -8,5 +8,5 @@ def min_max(numbers):
             smallest=item
     return smallest,largest
 
-print(min_max([2,3,4,1,55,23,45]))
+print(min_max([2,3,4,1,55,23,45])) 
 
